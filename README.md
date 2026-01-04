@@ -1,4 +1,4 @@
-# Realtime Chat
+# >private-chat
 
 This is a realtime chat application built with Next.js, React, and TypeScript.
 
@@ -8,6 +8,7 @@ This is a realtime chat application built with Next.js, React, and TypeScript.
 - **Real-time messaging**: Messages are sent and received instantly, providing a seamless chat experience.
 - **Room creation**: Users can create new chat rooms by providing a unique room ID.
 - **Room destruction**: Chat rooms can be destroyed by the creator, deleting all messages and disconnecting participants.
+- **User authentication**: Users must authenticate with a unique username to join a chat room.
 
 
 ## Tech Stack

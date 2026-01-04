@@ -25,6 +25,4 @@ This is a realtime chat application built with Next.js, React, and TypeScript.
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/realtime-chat.git](https://github.com/your-username/realtime-chat.git)
+
